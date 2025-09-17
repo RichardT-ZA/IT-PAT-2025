@@ -2,7 +2,8 @@
 My IT PAT project for school. This includes a calculator program created in Delphi.  
 The admin password is w.  
 
-  /$$$$$$                      /$$   /$$               /$$ /$$             /$$     /$$                  /$$$$$$            /$$                     /$$             /$$                              
+```
+  /$$$$$$                     /$$   /$$               /$$ /$$             /$$     /$$                   /$$$$$$           / $$                    / $$            / $$
  /$$__  $$                    |__/  | $$              | $$|__/            | $$    |__/                 /$$__  $$          | $$                    | $$            | $$                              
 | $$  \__/  /$$$$$$   /$$$$$$  /$$ /$$$$$$    /$$$$$$ | $$ /$$  /$$$$$$$ /$$$$$$   /$$  /$$$$$$$      | $$  \__/  /$$$$$$ | $$  /$$$$$$$ /$$   /$$| $$  /$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$       
 | $$       |____  $$ /$$__  $$| $$|_  $$_/   |____  $$| $$| $$ /$$_____/|_  $$_/  | $$ /$$_____/      | $$       |____  $$| $$ /$$_____/| $$  | $$| $$ |____  $$|_  $$_/   /$$__  $$ /$$__  $$      
@@ -13,3 +14,5 @@ The admin password is w.
                     | $$                                                                                                                                                                            
                     | $$                                                                                                                                                                            
                     |__/                                                                                                                                                                            
+```
+Capitalistic Calculator is a premium calculator service. It features a basic calculator (plus, minus, multiply and divide), an advanced calculator (exponentiation, log, div, mod, trigonometry and number conversions), and an investment calculator (see what your total spent on this app would have been worth if you chose to invest instead!)
