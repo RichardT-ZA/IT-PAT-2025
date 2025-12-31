@@ -16,3 +16,6 @@ The admin password is w.
                     |__/                                                                                                                                                                            
 ```
 Capitalistic Calculator is a premium calculator service. It features a basic calculator (plus, minus, multiply and divide), an advanced calculator (exponentiation, log, div, mod, trigonometry and number conversions), and an investment calculator (see what your total spent on this app would have been worth if you chose to invest instead!)
+
+**How to start the calculator:**  
+Download Capitalistic_Calculator_v26Oct2025_app.zip, extract the zip file and double click Capitalistic_Calculator.exe to start the program.
